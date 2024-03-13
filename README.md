@@ -3,7 +3,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Fernando Lemos
  I'm 23 years old, currently graduating and studying JAVA, SQL, GIT to become a software engineer. Also looking for an internship opportunity where I can develop my technical capabilities and skills.I'm originally from Brazil and live in the capital of the state of Piauí.
-Throughout my academic life (not yet finished) I participated in group activities and seminars involving agile methods and teamwork, I had contact with disciplines such as Object-Oriented Programming with JAVA, Backend frameworks and Databases.
+Throughout my academic life (not yet finished) I participated in group activities and seminars involving agile methods and teamwork, I had contact with Object-Oriented Programming with JAVA, Backend frameworks and Databases.
  ## I'm learning
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
