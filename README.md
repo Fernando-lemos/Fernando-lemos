@@ -15,3 +15,4 @@ Throughout my academic life (not yet finished) I participated in group activitie
 <a href="https://www.linkedin.com/in/fernando-lemos-7a1861239/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+![Snake animation](https://github.com/Fernando-lemos/Fernando-lemos/blob/output/github-contribution-grid-snake.svg)
