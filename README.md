@@ -2,7 +2,7 @@
 
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Fernando Lemos
- I'm 23 years old, currently graduating and studying JAVA, SQL, GIT to become a software engineer. Also looking for an internship opportunity where I can develop my technical capabilities and skills.I'm originally from Brazil and live in the capital of the state of Piauí.
+ I'm 23 years old, currently graduating and studying JAVA, SQL, SPRING to become a software engineer. Also looking for an internship opportunity where I can develop my technical capabilities and skills.I'm originally from Brazil and live in the capital of the state of Piauí.
 Throughout my academic life (not yet finished) I participated in group activities and seminars involving agile methods and teamwork, I had contact with Object-Oriented Programming with JAVA, Backend frameworks and Databases.
  ## I'm learning
 
